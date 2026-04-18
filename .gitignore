@@ -1,11 +1,38 @@
-.DS_Store
+# .DS_Store
 .gitignore
-node_modules
-public
+# node_modules
+# public
 prof
 tsconfig.tsbuildinfo
-.obsidian
+# .obsidian
 .quartz-cache
 private/
 .replit
 replit.nix
+
+
+
+# 依赖
+node_modules/
+
+# 编译输出
+public/
+dist/
+
+# 系统文件
+.DS_Store
+*.log
+tmp/
+
+# Obsidian
+.obsidian/
+.obsidian.vault/
+
+# 环境变量
+.env
+.env.*
+
+# 编辑器
+.idea/
+.vscode/
+*.swp
