@@ -1,2 +1,4 @@
-Hello world!
-
+---
+title: 首页
+redirect: /OneThread
+---
